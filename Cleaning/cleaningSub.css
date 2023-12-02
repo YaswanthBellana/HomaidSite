@@ -3,7 +3,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-image: url(./sbg.webp);
+  background-image: url("./sbg.webp");
 }
 
 .main-container{
