@@ -16,7 +16,7 @@
   padding-top: 0;
   padding-bottom: 0;
   height: 100vh;
-  background: url(./profilebg.webp);
+  background: url("./profilebg.webp");
 }
 
 .img-container img{
