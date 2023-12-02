@@ -81,7 +81,7 @@
 }
 
 .section1 {
-  background-image: url(./main-bg.webp);
+  background-image: url("./main-bg.webp");
   background-size: cover;
   max-width: 100vw;
   height: 92vh;
