@@ -16,7 +16,7 @@
   padding: 20px;
   padding-top: 0;
   padding-bottom: 0;
-  background: url(./profilebg.webp);
+  background: url("./profilebg.webp");
 }
 
 .form-container{
